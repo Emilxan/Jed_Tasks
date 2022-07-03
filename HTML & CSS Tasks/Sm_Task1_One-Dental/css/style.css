@@ -1,0 +1,50 @@
+.main{
+    display: flex;
+    
+}
+.section-two{
+    flex: 1;
+    background: linear-gradient(300deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    text-align: center;
+    padding-top: 17rem;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.25rem;
+    height: 75vh;
+}
+button{
+    padding: 0.6rem 3rem;
+    border: none;
+    color: white;
+    background: linear-gradient(303deg, rgba(34,195,143,1) 0%, rgba(255,136,46,1) 100%);
+}
+.footer{
+    padding-top: 20rem;
+}
+.logo{
+    position: absolute;
+    top: 3%;
+    left: 6%;
+    display: flex;
+}
+.logo__text{
+    display: flex;
+    flex-wrap: wrap;
+    width: 10rem;
+}
+a{
+    font-size: 2rem;
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo__text-first{
+    padding-top: 1rem;
+}
+.logo__text-second{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.section-first{
+    position: relative;
+}

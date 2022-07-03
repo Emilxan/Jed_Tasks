@@ -1,0 +1,18 @@
+:root{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar__button{
+    text-decoration: none;
+}
+.main__text{
+    margin-left: auto;
+    margin-right: auto;
+    width: 55vw;
+}
+.main__button{
+    margin-top: 30px;
+    font-size: 18px;
+}
+.footer__text{
+    padding: 40px 0px 40px 0px;
+} 
