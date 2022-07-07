@@ -19,7 +19,7 @@ if (key == 1) {
             } else {
                 alert("kapital bank hesabinda -250 manat qoturuldu \nNumber of attempts: " + (i + 1));
                 break; 
-            }cv 
+            }
         }
     }
 } else if(key == 2){
