@@ -1,0 +1,30 @@
+.text-one{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    margin: 0;
+}
+.btn{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border: none;
+}
+.btn:hover{
+    opacity: 60%;
+}
+.btn-green{
+    background-color: green;
+}
+.btn-red{
+    background-color: red;
+}
+.btn-blue{
+    background-color: blue;
+}
+.btn-yellow{
+    background-color: yellow;
+}
+.box{
+    text-align: center;
+    margin-top: 35vh;
+}
